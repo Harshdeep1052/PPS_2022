@@ -7,4 +7,4 @@ printf("HELLO WORLD");
 return 0;
 }
 ```
-**:OUTPUT HELLO WORLD**
+**OUTPUT: HELLO WORLD**
