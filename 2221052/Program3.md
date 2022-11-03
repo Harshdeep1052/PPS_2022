@@ -17,7 +17,7 @@ int main() {
 
 **Output**:
 ```
- enter a number 56
+enter a number 56
 
 Hello world you entered 56
 ```
