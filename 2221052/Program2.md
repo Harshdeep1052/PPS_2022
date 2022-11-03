@@ -1,4 +1,5 @@
 ## Program 2: Write a code to add two numbers
+```c
 
 #include <stdio.h>
 
@@ -14,5 +15,9 @@ int main() {
 
     return 0;
 }
+```
 
-**Output**: 30
+**Output**:
+``` 
+30
+```
