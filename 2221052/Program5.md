@@ -16,4 +16,3 @@ return 0;
 Enter a number:46
 46 is even
 ```
-
