@@ -3,8 +3,8 @@
 #include <stdio.h>
 int main()
 {
-    int a = 10;
-    do
+int a = 10;
+do
 {
 printf("%d\n", a);
 a = a + 1;
