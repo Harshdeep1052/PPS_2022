@@ -1,7 +1,6 @@
 ## Program3 : Write a program to get user input
 ```c
-#include <stdio.h>
-
+#include <stdio.>
 int main() {
  int a;
  printf("Enter a number ");
