@@ -12,5 +12,6 @@ return 0;
 ```
 **Output**:
 ```
-Please enter a character a The character you entered is a
+Please enter a character a
+The character you entered is a
 ```
