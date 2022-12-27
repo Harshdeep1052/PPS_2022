@@ -16,7 +16,7 @@ printf("%d",sum(num1,num2));
 return 0;
 }
 ```
-Output: 
+**Output** : 
 ```
 Enter 1st number:2 
 Enter 2nd number:4 6
